@@ -45,6 +45,7 @@ Weighting for the shift (var1): the best setting is still degree 5, α = 31.62. 
 | `BT2024199_test_var{1,2}.csv` | Test features (1000 rows each). |
 | `BT2024199_pred_var{1,2}.csv` | **Submitted predictions** (one column, `y`). |
 | `results/` | CV grids (`cv_var*.csv`), shift analysis (`shift_var1.csv`) and plots. |
+| [`report/report.tex`](report/report.tex) | LaTeX report documenting methodology, CV results, and rationale. |
 
 ## How to run
 

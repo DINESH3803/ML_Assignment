@@ -5,3 +5,12 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 .idea/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
